@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Simple To-Do-List</string>
+    <string name="title">Task Name</string>
+    <string name="hint_title">Enter name of task here</string>
+    <string name="singers">Task description</string>
+    <string name="hint_singers">Enter task Description</string>
+    <string name="year">Task Due Date</string>
+    <string name="hint_year">Enter Task due date here</string>
+    <string name="stars">Task Priority</string>
+    <string name="three">High</string>
+    <string name="two">Medium</string>
+    <string name="one">Low</string>
+
+    <string name="title_activity_main">Add Task</string>
+    <string name="title_activity_second">Show All task</string>
+    <string name="title_activity_third">Change task detail</string>
+
+    <string name="id">Song ID</string>
+    <string name="btnShowList">Show All Task</string>
+    <string name="btnInsert">Add</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="btn5Stars">Show Task with High priority</string>
+
+
+</resources>
